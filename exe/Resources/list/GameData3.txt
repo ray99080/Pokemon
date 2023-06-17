@@ -1,0 +1,14 @@
+3
+Reshiram 4
+BlueFlame DragonPulse FireFang FusionFlare
+Zekrom 4
+BoltStrike Thunder FusionBolt DragonClaw
+Kyurem 4
+SheerCold DragonPulse FreezeDry IceBeam
+3
+Groudon 4
+Eruption LavePlume PrecipiceBlades HammerArm
+Rayquaza 4
+Hurricane HyperBeam Twister Crunch
+Kyogre 4
+IceBeam WaterSpout WaterPulse BodySlam

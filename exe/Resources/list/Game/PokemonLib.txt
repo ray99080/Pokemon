@@ -1,0 +1,27 @@
+Venusaur
+2 Grass Poison
+187 147 148 167 167 145
+Charizard
+2 Fire Flying
+185 149 143 177 150 167
+Blastoise
+1 Water
+186 148 167 150 172 143
+Rayquaza
+2 Dragon Flying
+212 222 156 222 156 161
+Kyogre
+1 Water
+207 167 156 222 211 156
+Groudon
+1 Ground
+207 222 211 167 156 156
+Reshiram
+2 Dragon Fire
+207 189 167 222 189 156
+Zekrom
+2 Dragon Electric
+207 222 189 189 167 156
+Kyurem
+2 Dragon Ice
+232 200 156 200 156 161
